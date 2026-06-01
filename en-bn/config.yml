@@ -1,11 +1,11 @@
 relative-paths: true
 models:
-- model.enar.intgemm.alphas.bin
+- model.enbn.intgemm.alphas.bin
 vocabs:
-- vocab.enar.spm
-- vocab.enar.spm
+- vocab.enbn.spm
+- vocab.enbn.spm
 shortlist:
-- lex.50.50.enar.s2t.bin
+- lex.50.50.enbn.s2t.bin
 - false
 beam-size: 1
 normalize: 1.0
